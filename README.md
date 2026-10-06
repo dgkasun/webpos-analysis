@@ -1,4 +1,4 @@
-# POS Evaluation Data Analysis
+# WebPOS Evaluation Data Analysis
 
 This repository contains the data analysis for my MSc Computer Science project. The project involved developing and evaluating a browser-based POS and inventory management system for small textile retailers in Sri Lanka.
 
@@ -33,3 +33,10 @@ The analysis was performed using Python, pandas and Matplotlib.
 ## Note
 
 The manual and POS datasets were collected during different calendar periods and under different conditions. Therefore, the differences observed between the two periods are treated as descriptive and cannot be attributed solely to the POS system.
+
+## Author
+
+**D.G. Kasun Chamara**  
+MSc Computer Science  
+University of London  
+2026
